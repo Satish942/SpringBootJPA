@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: satis
+Build-Jdk: 11.0.12
+Implementation-Title: Spring Boot Demo Project with JPA
+Implementation-Version: 1.0-SNAPSHOT
+Implementation-Vendor-Id: com.mastertheboss.springboot
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/SpringBootJPA/
+Created-By: Maven Integration for Eclipse
+
